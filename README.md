@@ -1,2 +1,2 @@
 # Shane-Van-Winkle.github.io
-This is a demonstrated website for a friend.
+This is where my website will go.
